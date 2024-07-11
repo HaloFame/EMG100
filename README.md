@@ -33,4 +33,4 @@ The pre-release data can be found [here](https://pan.baidu.com/s/19Pf-oWOGjhavL4
 
 ## Relevant paper on the dataset
 
-Another work by our team entitled **A Benchmark Dataset for Audio-Visual-Electromyography-based Multimodal Speech Recognition** is undergoing peer review. The non-peer-reviewed version is released [here](https://github.com/HaloFame/EMG100/dataset_paper_nonereviewed.pdf) first, and citation and access will be updated once the paper is accepted.
+Another work by our team entitled **A Benchmark Dataset for Audio-Visual-Electromyography-based Multimodal Speech Recognition** is undergoing peer review. The non-peer-reviewed version is released [here](dataset_paper_nonereviewed.pdf) first, and citation and access will be updated once the paper is accepted.
