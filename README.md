@@ -13,7 +13,7 @@ A surface Electromyography (sEMG) acquisition system is constructed, through whi
 These signals are acquired to demonstrate the physiological activities of six muscles, including mentalis, risorius, levator labii superioris, anterior belly of the digastric, mylohyoid, and platysma.
 
 <p align = "center">
-<img src="https://github.com/HaloFame/EMG100/raw/main/MusclesDistribution.png" alt="MusclesDistribution" width="50%"  />
+<img src="MusclesDistribution.png" alt="MusclesDistribution" width="50%"  />
 </p>
 
 ![](./MusclesDistribution.png)
@@ -42,4 +42,4 @@ An official citation will be updated here subsequently.
 
 ## Relevant Paper on the Dataset
 
-Another work by our team entitled **A Benchmark Dataset for Audio-Visual-Electromyography-based Multi-modal Speech Recognition** is undergoing peer review. The non-peer-reviewed version is released [here](https://github.com/HaloFame/EMG100/raw/main/dataset_paper_nonereviewed.pdf) first, and citation and access will be updated once the paper is accepted.
+Another work by our team entitled **A Benchmark Dataset for Audio-Visual-Electromyography-based Multi-modal Speech Recognition** is undergoing peer review. The non-peer-reviewed version is released [here](dataset_paper_nonereviewed.pdf) first, and citation and access will be updated once the paper is accepted.
