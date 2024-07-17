@@ -16,6 +16,8 @@ These signals are acquired to demonstrate the physiological activities of six mu
 <img src="https://github.com/HaloFame/EMG100/raw/main/MusclesDistribution.png" alt="MusclesDistribution" width="50%"  />
 </p>
 
+![](./MusclesDistribution.png)
+
 ### Corpus
 
 The corpus is mainly designed for elderly and disability assistance scenarios in the light of Maslow's hierarchy of needs, covering 5 kinds of basic needs in daily life. 
