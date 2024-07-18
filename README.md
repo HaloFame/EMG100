@@ -13,10 +13,9 @@ A surface Electromyography (sEMG) acquisition system is constructed, through whi
 These signals are acquired to demonstrate the physiological activities of six muscles, including mentalis, risorius, levator labii superioris, anterior belly of the digastric, mylohyoid, and platysma.
 
 <p align = "center">
-<img src="MusclesDistribution.png" alt="MusclesDistribution" width="50%"  />
+<img src="MusclesDistribution.png" alt="MusclesDistribution" width="66%"  />
 </p>
 
-![](./MusclesDistribution.png)
 
 ### Corpus
 
