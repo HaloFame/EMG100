@@ -32,7 +32,9 @@ The dataset contains 99,688 utterances from 100 speakers in 101 categories, last
 
 ## Pre-released Data
 
-We have released the sEMG silent speech dataset in our experiments [here](https://pan.baidu.com/s/1WyQVJOZyb6woQ70BLSRinQ). This dataset is for study and research use only, and any other commercial use is strictly prohibited. 
+We have released the sEMG silent speech dataset in our experiments [here](https://pan.baidu.com/s/1WyQVJOZyb6woQ70BLSRinQ). 
+
+This dataset is for study and research use only, and any other commercial use is strictly prohibited. 
 If you need to use it, please contact us to obtain the data extraction code. After signing the data usage application and providing the necessary applicant information, you will be able to access the complete data.
 
 An official citation will be updated here subsequently.
