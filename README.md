@@ -1,6 +1,6 @@
 # A Benchmark Dataset for Electromyography-based Silent Speech Recognition 
 
-This repository contains dataset employed in ***A Simplified Adversarial Architecture for Cross-Subject Silent Speech Recognition Using Electromyography***.
+This repository contains dataset employed in [***A Simplified Adversarial Architecture for Cross-Subject Silent Speech Recognition Using Electromyography***](https://iopscience.iop.org/article/10.1088/1741-2552/ad7321).
 The details and original provenance of the dataset come from another paper by our team, entitled ***A Benchmark Dataset for Audio-Visual-Electromyography-based Multi-modal Speech Recognition***.
 
 
